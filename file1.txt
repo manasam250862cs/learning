@@ -1,3 +1,4 @@
 my name is manasa learning git and git hub.
 now after adding this file to staging area i am again modifying the file1.txt, before commiting.
 now i added this to staging area.
+4 th line.
